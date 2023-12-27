@@ -17,6 +17,9 @@ This solution uses CSV files with bicycle-sharing usage data from different citi
 # Common usage information
 You can execute the solution by running "python bikeshare.py". Then, it will ask you few questions on what city to analyze, what kind of analysis you want to do etc. Just follow the steps to see the results in your screen.
 
+# Software dependencies
+This solution requires the Anaconda packages: **pandas** and **numpy**
+
 # Credits
 Rodrigo (with support from my friends at Udacity).
 
