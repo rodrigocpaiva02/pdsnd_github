@@ -11,9 +11,12 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 This solution uses CSV files with data from bike share system provider for major cities in the United States and it uncovers usage patterns.
 
-### Files used
+# Files used
 This solution uses CSV files with bicycle-sharing usage data from different cities in the US.
 
-### Credits
+# Common usage information
+You can execute the solution by running "python bikeshare.py". Then, it will ask you few questions on what city to analyze, what kind of analysis you want to do etc. Just follow the steps to see the results in your screen.
+
+# Credits
 Rodrigo (with support from my friends at Udacity).
 
