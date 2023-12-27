@@ -81,6 +81,8 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
+    # Code that optimizes time statistics...
+    
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
@@ -100,6 +102,8 @@ def time_stats(df):
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
+    # Code that optimizes station statistics...
+
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
@@ -118,6 +122,8 @@ def station_stats(df):
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
+
+    # Code that optimizes trip duration statistics...
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
